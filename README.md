@@ -4,7 +4,7 @@ This project implements a simple monocular visual odometry (vSLAM) pipeline usin
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 vslam_project/
@@ -21,7 +21,7 @@ vslam_project/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -54,7 +54,7 @@ python main.py
 ![vslam](https://github.com/oscarpoudel/VSLAM_light/blob/main/image/2.png)
 
 
-## 📷 Live Outputs
+##  Live Outputs
 
 - Window 1: Feature tracking overlay.
 - Window 2: Real-time estimated trajectory.
@@ -62,7 +62,7 @@ python main.py
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Shi-Tomasi corner detection.
 - Pyramidal Lucas-Kanade Optical Flow tracking.
@@ -73,7 +73,7 @@ python main.py
 
 ---
 
-## 📚 Dependencies
+##  Dependencies
 
 - OpenCV (cv2)
 - NumPy
@@ -84,7 +84,7 @@ python main.py
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-sourced under the MIT License.
 
