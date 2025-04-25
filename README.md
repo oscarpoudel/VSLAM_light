@@ -49,6 +49,10 @@ python main.py
 ```
 
 ---
+## outputs
+![tracking points](https://github.com/oscarpoudel/VSLAM_light/blob/main/image/1.png)
+![vslam](https://github.com/oscarpoudel/VSLAM_light/blob/main/image/2.png)
+
 
 ## 📷 Live Outputs
 
